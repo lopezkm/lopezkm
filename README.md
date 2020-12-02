@@ -1,10 +1,9 @@
 
 <h2> Hi, I'm Matias Lopez! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em> Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: matiaslopez](https://img.shields.io/badge/-matiaslopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matías-lopez-klyver-a3231530)](https://www.linkedin.com/in/matías-lopez-klyver-a3231530)
+[![Linkedin: Matias-Lopez](https://img.shields.io/badge/-matiaslopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matías-lopez-klyver-a3231530)](https://www.linkedin.com/in/matías-lopez-klyver-a3231530)
 [![GitHub lopezkm](https://img.shields.io/github/followers/lopezkm?label=follow&style=social)](https://https://github.com/lopezkm)
 
 
