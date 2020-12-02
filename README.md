@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm ... </h2>
+<h2> Hi there, I'm ... </h2>
 
 ![Readme](https://user-images.githubusercontent.com/64820410/100919671-de1cfa80-34b8-11eb-8b82-c16f8b48d30d.png)
 
