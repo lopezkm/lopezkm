@@ -26,3 +26,4 @@ const aboutMe = {
    },
    focus: "I'm looking for job´s interviews to start working in this amazing world of technology ",
 };
+
