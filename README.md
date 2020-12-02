@@ -1,15 +1,12 @@
 
 <h2> Hi, I'm ... </h2>
-![Blue Marketing Start-up Business Facebook Cover](https://user-images.githubusercontent.com/64820410/100917313-baa48080-34b5-11eb-8b62-dce83c84d8ce.png)
-
-<p><em> Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+[Blue Marketing Start-up Business Facebook Cover](https://user-images.githubusercontent.com/64820410/100917313-baa48080-34b5-11eb-8b62-dce83c84d8ce.png)
 
 [![Linkedin: MatiasLopez](https://img.shields.io/badge/-matiaslopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matías-lopez-klyver-a3231530)](https://www.linkedin.com/in/matías-lopez-klyver-a3231530)
 [![GitHub lopezkm](https://img.shields.io/github/followers/lopezkm?label=follow&style=social)](https://https://github.com/lopezkm)
 
 
-### A little more about me...  
+### A little more about me... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ```javascript
 const aboutMe = {
