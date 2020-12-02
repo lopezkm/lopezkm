@@ -25,6 +25,6 @@ const aboutMe = {
       },
       databases: ["PostgreSQL", "MongoDB"]
    },
-   focus: "I'm looking for job´s interviews to start working in this amazing world of technology",
+   focus: "I'm looking for oportunities to be part of a team into this amazing web development world",
 };
 
