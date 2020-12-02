@@ -3,7 +3,7 @@
 <p><em> Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Matias-Lopez](https://img.shields.io/badge/-matiaslopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matías-lopez-klyver-a3231530)](https://www.linkedin.com/in/matías-lopez-klyver-a3231530)
+[![Linkedin: MatiasLopez](https://img.shields.io/badge/-matiaslopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matías-lopez-klyver-a3231530)](https://www.linkedin.com/in/matías-lopez-klyver-a3231530)
 [![GitHub lopezkm](https://img.shields.io/github/followers/lopezkm?label=follow&style=social)](https://https://github.com/lopezkm)
 
 
