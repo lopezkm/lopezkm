@@ -1,5 +1,7 @@
 
-<h2> Hi, I'm Matias Lopez! </h2>
+<h2> Hi, I'm ... </h2>
+![Blue Marketing Start-up Business Facebook Cover](https://user-images.githubusercontent.com/64820410/100917313-baa48080-34b5-11eb-8b62-dce83c84d8ce.png)
+
 <p><em> Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
