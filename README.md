@@ -8,7 +8,7 @@
 
 
 ### A little more about me... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-I'm a 36 years old industrial engineer, from Tucumán, Argentina. And i'm also graduated from a full stack web development bootcamp at Henry, learning and using technologies such as:
+I'm a 36 years old industrial engineer, from Tucumán, Argentina. And i'm also graduated from a full stack web development bootcamp at Henry, learning and using different technologies such as the ones  listed in my personal code description below:
 
 ```javascript
 const aboutMe = {
